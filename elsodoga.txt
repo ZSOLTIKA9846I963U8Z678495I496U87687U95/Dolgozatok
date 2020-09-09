@@ -1,0 +1,4 @@
+1. Microsoft Management Console (Microsoft EszközKezelőkonzol) egy személyre szabható sablon
+2.A dátumot, a hét első napját, tizedes számjegyek számát, pénznemet, számjegyek csoportosítását.
+A Windowsba beépített szolgáltatása, ami lehetővé teszi a telepített hardvereszközök, és meghajtóprogramok áttekintését, és beállítását.
+A virtuális memória teljesítményjavításra, gépünk hasznosabbá tételélérét jó.
